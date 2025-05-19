@@ -1,0 +1,107 @@
+* {
+    margin:0;
+    padding: 0;
+    text-align: center;
+    font-size: 16pt;
+}
+body {
+    margin: 20px;
+    padding: 30px;
+    background-color: rgb(173, 172, 172);
+}
+main {
+    background-color: #fcfafa;
+    border-radius: 80px;
+    padding: 30px 80px;
+}
+.firstHead {
+    font-size: 30pt;
+}
+#szeles {
+    width: 70%;
+    border-radius: 50px;
+    margin: 30px auto;
+
+}
+.kozepSzoveg {
+    width: 45%;
+    min-width: 160px;
+    margin: 20px auto;
+}
+.emph {
+    font-weight: 100;
+    font-size: 22pt
+}
+hr {
+    background-color: transparent;
+    height: 0;
+    border: none;
+    border-top: 5px dotted black;
+    width: 40vw;
+    margin: 40px auto;
+}
+h1 {
+    font-size: 22pt;
+}
+.autoBlock {
+    width: 50%;
+    margin: 30px auto;
+}
+.autoBlock img {
+    width: 75%;
+}
+.autoBlock p {
+    font-weight: bold;
+    font-size: 18pt;
+}
+.columnHead {
+    text-decoration: underline;
+}
+th, td {
+    border: 1px solid rgb(173, 172, 172);
+    font-size: 12pt;
+    text-align: center;
+    padding: 10px;
+}
+table {
+    border: 1px solid rgb(173, 172, 172);
+    font-size: 12pt;
+    text-align: center;
+    width: 70%;
+    margin: 30px auto;
+}
+.bottomLink {
+    display: block;
+    margin: 15px;
+}
+.bigLink {
+    font-size: 22pt;
+}
+.alairas {
+    text-align: right;
+    margin: 40px 10px 20px;
+    font-weight: bold;
+}
+.left {
+    text-align: left;
+}
+.justf {
+    text-align: justify;
+}
+.textblock {
+    font-size: 14pt;
+    margin: 20px 220px 10px 50px;
+}
+.blockTitle {
+    font-size: 18pt;
+    margin: 30px 0 10px 0;
+}
+.secondHead {
+    font-size: 18pt;
+}
+.list {
+    margin: 20px 0 30px 70px 
+}
+li {
+    text-align: left;
+}
